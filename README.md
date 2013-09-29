@@ -1,7 +1,7 @@
 ASL
 ===
 
-Mapping hand shape to ASL letter since 2013!
+Mapping hand shape to ASL letter since 2013!   Please don't judge me on this code, I know it's a mess!
 
 Dependencies
 ===
